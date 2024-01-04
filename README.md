@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeonardDaimari
 - 👀 I’m interested in AI and Data Analytics
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on my projets.
+- 💞️ I’m looking to collaborate on my projects.
 - 📫 How to reach me @Leonarddaimary@gmail.com
 
 <!---
